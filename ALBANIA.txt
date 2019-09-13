@@ -1,0 +1,233 @@
+﻿#EXTM3U
+#EXTINF:-1,(AL) 24 Kitchen
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9728
+#EXTINF:-1,(AL) A1 Shqiptare
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9729
+#EXTINF:-1,(AL) ALB Humor
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9726
+#EXTINF:-1,(AL) Alsat-M
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9808
+#EXTINF:-1,(AL) Alsat-M EST USA
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9778
+#EXTINF:-1,(AL) ALSAT-M HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9811
+#EXTINF:-1,(AL) Baby TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9759
+#EXTINF:-1,(AL) Bang Bang
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9762
+#EXTINF:-1,(AL) BESA TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9816
+#EXTINF:-1,(AL) Cufo TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9763
+#EXTINF:-1,(AL) Dasma
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9730
+#EXTINF:-1,(AL) Digi Gold
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9765
+#EXTINF:-1,(AL) Digi Gold 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9764
+#EXTINF:-1,(AL) ERA TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9812
+#EXTINF:-1,(AL) Explorer History
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9756
+#EXTINF:-1,(AL) Explorer Natyre
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9757
+#EXTINF:-1,(AL) Explorer Shkence
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9758
+#EXTINF:-1,(AL) Film Aksion
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9766
+#EXTINF:-1,(AL) Film Autor
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9767
+#EXTINF:-1,(AL) Film Drame
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9768
+#EXTINF:-1,(AL) Film Dy HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9774
+#EXTINF:-1,(AL) Film Hits
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9769
+#EXTINF:-1,(AL) Film Komedi
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9770
+#EXTINF:-1,(AL) Film Nje HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9775
+#EXTINF:-1,(AL) Film Stinet
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9771
+#EXTINF:-1,(AL) Film Thriler
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9772
+#EXTINF:-1,(AL) First TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9773
+#EXTINF:-1,(AL) First TV (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9817
+#EXTINF:-1,(AL) Folk
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9776
+#EXTINF:-1,(AL) Folklorit  (AL)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9777
+#EXTINF:-1,(AL) IN TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9735
+#EXTINF:-1,(AL) Islam TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9796
+#EXTINF:-1,(AL) Jolly HD Cinema
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9798
+#EXTINF:-1,(AL) Junior
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9761
+#EXTINF:-1,(AL) Kanali 7
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9760
+#EXTINF:-1,(AL) KINO ACTION
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9722
+#EXTINF:-1,(AL) Kino Premiere 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9724
+#EXTINF:-1,(AL) KLAN EST USA
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9779
+#EXTINF:-1,(AL) Klan HD (AL)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9833
+#EXTINF:-1,(AL) Klan HD Beckup
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9832
+#EXTINF:-1,(AL) Klan Kosova
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9831
+#EXTINF:-1,(AL) Klan Kosova (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9830
+#EXTINF:-1,(AL) Klan TV UHD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9809
+#EXTINF:-1,(AL) KTV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9821
+#EXTINF:-1,(AL) KTV (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9820
+#EXTINF:-1,(AL) Kujtesa Sport 1
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9699
+#EXTINF:-1,(AL) Kujtesa Sport 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9698
+#EXTINF:-1,(AL) Kujtesa Sport 3
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9697
+#EXTINF:-1,(AL) Kujtesa Sport 4
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9696
+#EXTINF:-1,(AL) News 24
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9731
+#EXTINF:-1,(AL) Ora News
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9732
+#EXTINF:-1,(AL) RRokum
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9733
+#EXTINF:-1,(AL) RTK
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9825
+#EXTINF:-1,(AL) RTK (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9824
+#EXTINF:-1,(AL) RTK 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9823
+#EXTINF:-1,(AL) RTK 3
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9822
+#EXTINF:-1,(AL) RTV 21 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9815
+#EXTINF:-1,(AL) RTV 21 HD (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9814
+#EXTINF:-1,(AL) RTV 21 HD Junior
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9799
+#EXTINF:-1,(AL) RTV 21 HD Popullore
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9800
+#EXTINF:-1,(AL) RTV 21 M HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9813
+#EXTINF:-1,(AL) RTV 21 Plus
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9801
+#EXTINF:-1,(AL) RTV Zeri i Kosoves HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9807
+#EXTINF:-1,(AL) Saudia Quran
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9795
+#EXTINF:-1,(AL) ShqipTV Aksion HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9794
+#EXTINF:-1,(AL) ShqipTV Cinema HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9725
+#EXTINF:-1,(AL) ShqipTV Fantasy HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9793
+#EXTINF:-1,(AL) ShqipTV Film HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9792
+#EXTINF:-1,(AL) ShqipTV Horror HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9791
+#EXTINF:-1,(AL) ShqipTV Humor HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9790
+#EXTINF:-1,(AL) ShqipTV Islam HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9721
+#EXTINF:-1,(AL) ShqipTV Jete HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9789
+#EXTINF:-1,(AL) ShqipTV Kino-DE HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9788
+#EXTINF:-1,(AL) ShqipTV Komedi HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9787
+#EXTINF:-1,(AL) ShqipTV Mimi HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9786
+#EXTINF:-1,(AL) ShqipTV Qifteli HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9723
+#EXTINF:-1,(AL) ShqipTV Stupcat HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9785
+#EXTINF:-1,(AL) ShqipTV Tom & Jerry HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9784
+#EXTINF:-1,(AL) ShqipTV Western HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9783
+#EXTINF:-1,(AL) Siri Blue HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9806
+#EXTINF:-1,(AL) SS1 HD (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9710
+#EXTINF:-1,(AL) SS2 HD (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9709
+#EXTINF:-1,(AL) SS3 HD (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9708
+#EXTINF:-1,(AL) SS4 HD (B)
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9707
+#EXTINF:-1,(AL) Supersport 1
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9716
+#EXTINF:-1,(AL) SuperSport 1 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9720
+#EXTINF:-1,(AL) Supersport 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9715
+#EXTINF:-1,(AL) SuperSport 2 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9719
+#EXTINF:-1,(AL) Supersport 3
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9714
+#EXTINF:-1,(AL) SuperSport 3 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9718
+#EXTINF:-1,(AL) Supersport 4
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9713
+#EXTINF:-1,(AL) SuperSport 4 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9717
+#EXTINF:-1,(AL) Supersport Kosova 1
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9712
+#EXTINF:-1,(AL) Supersport Kosova 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9711
+#EXTINF:-1,(AL) T  HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9742
+#EXTINF:-1,(AL) TipTV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9743
+#EXTINF:-1,(AL) Top Channel Beckup
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9827
+#EXTINF:-1,(AL) Top Channel EST USA
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9780
+#EXTINF:-1,(AL) Top Channel HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9828
+#EXTINF:-1,(AL) Top Channel SD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9829
+#EXTINF:-1,(AL) Top Channel UHD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9810
+#EXTINF:-1,(AL) Travel Channel
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9781
+#EXTINF:-1,(AL) TV Bujanovac
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9737
+#EXTINF:-1,(AL) TV Globi Gostivar
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9803
+#EXTINF:-1,(AL) TV Koha TetovÃ« HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9738
+#EXTINF:-1,(AL) TV Liria
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9734
+#EXTINF:-1,(AL) TV Mitrovica
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9805
+#EXTINF:-1,(AL) TV Presheva
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9739
+#EXTINF:-1,(AL) TV Shenja
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9740
+#EXTINF:-1,(AL) TV Tirana
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9804
+#EXTINF:-1,(AL) TV Uskana
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9826
+#EXTINF:-1,(AL) TVSH
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9818
+#EXTINF:-1,(AL) Vision Plus
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9819
+#EXTINF:-1,(AL) Vizion Plus EST USA
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9782
+#EXTINF:-1,(AL) Zico TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9802
+#EXTINF:-1,(AL) ZJARR TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9741

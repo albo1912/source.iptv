@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1,SE: Animal Planet
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43653
+#EXTINF:-1,SE: Animal Planet FHD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43652
+#EXTINF:-1,SE: BBC Earth HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43651
+#EXTINF:-1,SE: Boomerang
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43650
+#EXTINF:-1,SE: Comedy Central
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43687
+#EXTINF:-1,SE: Discovery Channel HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43686
+#EXTINF:-1,SE: Discovery World
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43640
+#EXTINF:-1,SE: Disney Channel
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43685
+#EXTINF:-1,SE: Disney Junior
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43639
+#EXTINF:-1,SE: Disney XD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43684
+#EXTINF:-1,SE: E!
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43638
+#EXTINF:-1,SE: Eurosport 1 FHD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43637
+#EXTINF:-1,SE: Eurosport 1 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43683
+#EXTINF:-1,SE: Eurosport 2 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43636
+#EXTINF:-1,SE: Fight Sports
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43635
+#EXTINF:-1,SE: FOX
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43682
+#EXTINF:-1,SE: H2 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43634
+#EXTINF:-1,SE: History HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43633
+#EXTINF:-1,SE: Investigation Discovery
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43632
+#EXTINF:-1,SE: Kanal 11 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43681
+#EXTINF:-1,SE: Kanal 5
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43680
+#EXTINF:-1,SE: Kanal 9 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43679
+#EXTINF:-1,SE: Kunskapskanalen
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43631
+#EXTINF:-1,SE: Kunskapskanalen FHD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43630
+#EXTINF:-1,SE: Motorsport.TV HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43629
+#EXTINF:-1,SE: MTV
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43678
+#EXTINF:-1,SE: Nat Geo Wild
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43628
+#EXTINF:-1,SE: National Geographic
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43627
+#EXTINF:-1,SE: Nick Jr.
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43626
+#EXTINF:-1,SE: Nickelodeon
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43625
+#EXTINF:-1,SE: SF Kanalen
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43624
+#EXTINF:-1,SE: Sjuan
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43623
+#EXTINF:-1,SE: SVT Barnkanalen
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43622
+#EXTINF:-1,SE: SVT1 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43677
+#EXTINF:-1,SE: SVT2
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43676
+#EXTINF:-1,SE: SVT2 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43621
+#EXTINF:-1,SE: SVT24
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43675
+#EXTINF:-1,SE: TCM
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43674
+#EXTINF:-1,SE: TLC HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43620
+#EXTINF:-1,SE: TNT
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43619
+#EXTINF:-1,SE: Travel Channel
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43618
+#EXTINF:-1,SE: TV10
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43673
+#EXTINF:-1,SE: TV12
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43617
+#EXTINF:-1,SE: TV12 FHD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43616
+#EXTINF:-1,SE: TV3 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43672
+#EXTINF:-1,SE: TV3 Sport HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43615
+#EXTINF:-1,SE: TV4 Fakta
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43671
+#EXTINF:-1,SE: TV4 Fakta XL
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43670
+#EXTINF:-1,SE: TV4 Guld
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43668
+#EXTINF:-1,SE: TV4 HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43667
+#EXTINF:-1,SE: TV4 Komedi
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43614
+#EXTINF:-1,SE: TV4 Sport HD
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43613
+#EXTINF:-1,SE: TV6
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43666
+#EXTINF:-1,SE: TV8
+http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/43665

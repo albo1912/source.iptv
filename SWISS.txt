@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,|SUI| RTS Un
+http://omega.ws:8080/localhd/211VGH699/1179
+#EXTINF:-1,|SUI| RTS Deux
+http://omega.ws:8080/localhd/211VGH699/1178
+#EXTINF:-1,|SUI| SRF 1 HD
+http://omega.ws:8080/localhd/211VGH699/10107
+#EXTINF:-1,|SUI| SRF 2 HD
+http://omega.ws:8080/localhd/211VGH699/10108
+#EXTINF:-1,|SUI| Canal Alpha
+http://omega.ws:8080/localhd/211VGH699/1057
+#EXTINF:-1,|SUI| TVM3
+http://omega.ws:8080/localhd/211VGH699/1058
