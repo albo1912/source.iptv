@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1,US: A&E
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/10591
+#EXTINF:-1,US: ABC NY
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19649
+#EXTINF:-1,US: AMC
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8786
+#EXTINF:-1,US: Animal Planet
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8784
+#EXTINF:-1,US: Bravo
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19638
+#EXTINF:-1,US: CBS LA HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19639
+#EXTINF:-1,US: CNBC
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8693
+#EXTINF:-1,US: CW
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8679
+#EXTINF:-1,US: Comedy Central
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19640
+#EXTINF:-1,US: Cooking Channel
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8683
+#EXTINF:-1,US: DIY Network
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8655
+#EXTINF:-1,US: Discovery Channel HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8670
+#EXTINF:-1,US: Discovery Science HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8666
+#EXTINF:-1,US: Discovery Velocity
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8665
+#EXTINF:-1,US: E! Entertainment | HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8651
+#EXTINF:-1,US: El Rey Network
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/10559
+#EXTINF:-1,US: FOX
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8619
+#EXTINF:-1,US: FUSE HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19641
+#EXTINF:-1,US: FUSION
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8580
+#EXTINF:-1,US: FX HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19642
+#EXTINF:-1,US: FXX
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8576
+#EXTINF:-1,US: HBO
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8565
+#EXTINF:-1,US: HBO 2
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8563
+#EXTINF:-1,US: HBO Comedy HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8560
+#EXTINF:-1,US: HBO Family
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8557
+#EXTINF:-1,US: HBO Signature
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8555
+#EXTINF:-1,US: HGTV HQ
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8550
+#EXTINF:-1,US: Hallmark
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8568
+#EXTINF:-1,US: History
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8547
+#EXTINF:-1,US: Investigation Discovery
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8542
+#EXTINF:-1,US: Lifetime
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19651
+#EXTINF:-1,US: MTV | HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8527
+#EXTINF:-1,US: NBC LA
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19650
+#EXTINF:-1,US: NICK
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8483
+#EXTINF:-1,US: Nat Geo HQ
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8515
+#EXTINF:-1,US: Showtime West HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8447
+#EXTINF:-1,US: Sony
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19647
+#EXTINF:-1,US: Spike
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8444
+#EXTINF:-1,US: SyFy
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8405
+#EXTINF:-1,US: TBS
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19646
+#EXTINF:-1,US: TLC HQ
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19648
+#EXTINF:-1,US: TNT HQ
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8394
+#EXTINF:-1,US: TV land
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19652
+#EXTINF:-1,US: TruTV
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19645
+#EXTINF:-1,US: USA Network
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8374
+#EXTINF:-1,US: VH1 | HD
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/8370
+#EXTINF:-1,US: Viceland
+http://comcdi.com:25461/staLkER3/jtPKN0l6ux/19644
